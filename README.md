@@ -1,2 +1,2 @@
-# Projeto_final_IE342H
-Código final da matéria de medições acústicas
+# Final_Project_IE342H
+Code of the final project of the Acoustic Measurements Course
